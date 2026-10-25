@@ -27,4 +27,4 @@ Then visit `http://localhost:8000`.
 
 ## Privacy
 
-This is a public site. Review every phone number, email address, academic identifier, profile photo, and social link in `index.html` before publishing. Keep only information intentionally approved for public contact.
+The public site uses LinkedIn as its contact channel and does not publish a phone number, direct email address, or academic identifier. Only intentional owner profile photographs remain in the project.
