@@ -1,13 +1,14 @@
 # Personal Portfolio Website
 
-A static personal portfolio built with HTML and CSS. The page presents a short introduction, technical interests, contact information, social links, and custom illustrations.
+A modern, responsive portfolio for Hashitha Mihiran, an AI & Automation Engineer based in Kuala Lumpur. It presents a professional introduction, AI and Python-focused expertise, career and education highlights, and intentionally public contact links.
 
 ## Technology
 
 - Semantic HTML
 - Custom CSS
-- Google Fonts
-- Static image assets
+- Responsive CSS Grid and Flexbox layouts
+- Accessible semantic structure and reduced-motion support
+- Google Fonts and optimized static image assets
 
 ## Preview locally
 
@@ -25,6 +26,6 @@ Then visit `http://localhost:8000`.
 - `css/styles.css` — layout, typography, and component styles
 - `images/` — profile and technology artwork
 
-## Privacy
+## Public contact information
 
-The public site uses LinkedIn as its contact channel and does not publish a phone number, direct email address, or academic identifier. Only intentional owner profile photographs remain in the project.
+The site intentionally publishes `hashithayapa@gmail.com`, LinkedIn, and GitHub as professional contact channels. It does not publish a phone number or academic identifier. Both profile photographs are intentionally included by the site owner.
